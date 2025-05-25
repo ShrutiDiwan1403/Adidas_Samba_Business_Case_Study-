@@ -84,7 +84,8 @@ The result? **Sambas everywhere.**
 The Samba story isn’t just a fashion revival. It’s a case study in **strategic brand management powered by data**. Adidas didn’t just follow a trend; they anticipated it, modeled it, and shaped it.
 
 In the era of predictive analytics and AI-driven insights, Adidas is no longer just making shoes.  
-**TThey’re tracking your movement before you even lace up.**
+**They’re tracking your movement before you even lace up.**
 
 
 
+![Adidas_samba___](https://github.com/user-attachments/assets/c732f064-b45f-428b-afdf-6b8a14f5fdd6)
