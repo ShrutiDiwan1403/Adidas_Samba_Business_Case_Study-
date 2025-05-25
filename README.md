@@ -1,9 +1,9 @@
-# Adidas_Samba_Business_Case_Study
-How Adidas Turned the Samba into a Global Data-Driven Fashion Icon
+# How Adidas Turned the Samba into a Global Data-Driven Fashion Icon
+
 
 # 📊 Business Case Study: How Adidas Turned the Samba into a Global Data-Driven Fashion Icon
 
-## 👟 Introduction
+## Introduction 👟
 
 While browsing a shoe store at the mall recently, a striking observation emerged: nearly everyone was reaching for a pair of **Adidas Sambas**. This moment wasn't just anecdotal—it highlighted a deeper shift. 
 
