@@ -91,6 +91,3 @@ In the era of predictive analytics and AI-driven insights, Adidas is no longer j
 ## Components the study covers
 **Product focus, strategy, data analysis, and forward looking insight/approach**
 
-
-
-![Adidas_samba___](https://github.com/user-attachments/assets/c732f064-b45f-428b-afdf-6b8a14f5fdd6)
