@@ -24,29 +24,29 @@ Adidas leveraged **scarcity marketing**; a deliberate shift from previous overst
 
 Adidas’ rise with the Samba wasn’t just organic. It was engineered through **data-first decision-making**. Here's how:
 
-### 1. Consumer Behaviour Analytics
+### Consumer Behaviour Analytics
 - Tracked **search volume, add-to-cart behavior, and wishlists**.
 - Identified rising interest in retro and low-profile sneakers.
 
-### 2. Social Listening & Trend Forecasting
+### Social Listening & Trend Forecasting
 - Monitored **Instagram, TikTok, Pinterest, Reddit**.
 - Detected early alignment with aesthetics like **“clean girl”**, **90s minimalism**, and **vintage football**.
 - Leveraged **AI-based trend forecasting tools**.
 
-### 3. Personalization Engines
+### Personalization Engines
 - Used **collaborative filtering** to recommend similar products.
 - Delivered product suggestions based on browsing and buying patterns.
 
-### 4. Market Segmentation & Geo-Targeting
+### Market Segmentation & Geo-Targeting
 - Localized marketing efforts:
   - **Germany/UK**: Football-centric storytelling.
   - **Italy/France**: Fashion-forward limited editions.
 
-### 5. Direct-to-Consumer (DTC) Optimization
+### Direct-to-Consumer (DTC) Optimization
 - Enhanced product page UX.
 - Reduced bounce rates and improved cart recovery through behavioral insights.
 
-### 6. Campaign A/B Testing
+### Campaign A/B Testing
 - Measured creator performance.
 - Invested more in influencers whose **Samba-related posts led directly to conversions**.
 
