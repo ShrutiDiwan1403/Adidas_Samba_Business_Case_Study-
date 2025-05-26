@@ -88,7 +88,7 @@ In the era of predictive analytics and AI-driven insights, Adidas is no longer j
 
 
 
-## Component the study covers
+## Components the study covers
 **Product focus, strategy, data analysis, and forward looking insight/approach**
 
 
